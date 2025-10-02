@@ -4,13 +4,13 @@ JamCast is a Spring Boot REST API that generates Spotify playlists based on the 
 
 ## Features
 
-- 🌤️ **Weather Integration**: Fetches real-time weather data from OpenWeatherMap API
-- 🎵 **Spotify Integration**: Generates music recommendations using Spotify Web API
-- 🎯 **Smart Mood Mapping**: Maps weather conditions to appropriate music moods
-- 🚀 **Reactive Programming**: Built with Spring WebFlux for non-blocking operations
-- 📝 **Comprehensive Logging**: Detailed logging for debugging and monitoring
-- 🛡️ **Error Handling**: Robust error handling with meaningful error messages
-- ✅ **Input Validation**: Request validation with detailed error responses
+-  **Weather Integration**: Fetches real-time weather data from OpenWeatherMap API
+-  **Spotify Integration**: Generates music recommendations using Spotify Web API
+-  **Smart Mood Mapping**: Maps weather conditions to appropriate music moods
+-  **Reactive Programming**: Built with Spring WebFlux for non-blocking operations
+-  **Comprehensive Logging**: Detailed logging for debugging and monitoring
+-  **Error Handling**: Robust error handling with meaningful error messages
+-  **Input Validation**: Request validation with detailed error responses
 
 ## Prerequisites
 
